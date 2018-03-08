@@ -1,0 +1,11 @@
+#plik gitignore
+#bez katalogu Lst i Obj
+Lst/
+Obj/
+
+#bez plikow .bak .dep
+*.bak
+*.dep
+
+
+
